@@ -8,3 +8,4 @@ Então o laboratório proposto será realizado utilizado o Microsoft Copilot.
 
 # Microsoft Copilot
 
+![Resultado Copilot](output/Resultado_Copilot.png)
